@@ -1,0 +1,6 @@
+{
+  "termination_clause_mean_f1": 0.2909295228892947,
+  "liability_clause_mean_f1": 0.4861470359491699,
+  "n_scored_termination": 12,
+  "n_scored_liability": 12
+}
