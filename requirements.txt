@@ -1,0 +1,5 @@
+openai>=1.30.0          # used for OpenRouter and OpenAI backends
+anthropic>=0.30.0       # used if LLM_PROVIDER=anthropic
+sentence-transformers>=2.7.0   # bonus: semantic search embeddings
+faiss-cpu>=1.8.0        # bonus: semantic search index
+python-dotenv>=1.0.0    # loads .env into environment variables
